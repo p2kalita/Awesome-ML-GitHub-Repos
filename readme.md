@@ -15,22 +15,22 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 ![alt text](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/images/Awosme%20ML%20GitHub%20Repos.png)
 
 ## Table of Contents:
-* [Natural Language Processing (NLP)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Data%20Engineering-,Natural%20Language%20Processing,-nlp%2Dtutorial%3A%20nlp)
-* [Large Language Models(LLM)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=lines%20of%20code.-,Large%20Language%20Models,-Open%20LLMs%3A%20List)
-* [Computer Vision](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=LLMs%20through%20composability-,Computer%20Vision,-Computer%20Vision%20Tutorials)
-* [Data Science](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=based%20CV%20works-,Data%20Science,-Data%20Science%20for)
-* [Machine Learning](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Interview%20Questions%20Answers-,Machine%20Learning,-Best%2Dof%20Machine) 
-* [Machine Learning Engineerings Operations (MLOps)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Machine%20Learning%20Interviews-,Machine%20Learning%20Engineerings%20Operations%20(MLOps),-MLOps%2DBasics)
-* [Data Engineering](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=MLOps%20Course-,Data%20Engineering,-Data%20Engineering%20Zoomcamp) 
+* [Natural Language Processing (NLP)](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Data%20Engineering-,Natural%20Language%20Processing,-nlp%2Dtutorial%3A%20nlp)
+* [Large Language Models(LLM)](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=lines%20of%20code.-,Large%20Language%20Models,-Open%20LLMs%3A%20List)
+* [Computer Vision](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=LLMs%20through%20composability-,Computer%20Vision,-Computer%20Vision%20Tutorials)
+* [Data Science](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=based%20CV%20works-,Data%20Science,-Data%20Science%20for)
+* [Machine Learning](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Interview%20Questions%20Answers-,Machine%20Learning,-Best%2Dof%20Machine) 
+* [Machine Learning Engineerings Operations (MLOps)](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Machine%20Learning%20Interviews-,Machine%20Learning%20Engineerings%20Operations%20(MLOps),-MLOps%2DBasics)
+* [Data Engineering](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=MLOps%20Course-,Data%20Engineering,-Data%20Engineering%20Zoomcamp) 
 
 ## Natural Language Processing ##
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/NLP.jpg)
+![alt text](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/images/NLP.jpg)
 
 * [nlp-tutorial](https://github.com/graykode/nlp-tutorial): nlp-tutorial is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch. Most of the models in NLP were implemented with less than 100 lines of code.
 
 
 ## Large Language Models ##
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/LLM.png)
+![alt text](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/images/LLM.png)
 * [Open LLMs: List of LLMs that are all licensed for commercial](https://github.com/eugeneyan/open-llms)
 * [Awesome-LLM: Curated list of papers about large language models, especially relating to ChatGPT](https://github.com/Hannibal046/Awesome-LLM)
 * [awesome-decentralized-llm: Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research](https://github.com/imaurer/awesome-decentralized-llm)
@@ -38,7 +38,7 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 * [Awesome LangChain: Curated list of tools and projects using LangChain](https://github.com/kyrolabs/awesome-langchain)
 
 ## Computer Vision ## 
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Computer%20Vision.png)
+![alt text](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/images/Computer%20Vision.png)
 * [Awesome Computer Vision: A curated list of awesome computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Computer Vision Tutorials by Roboflow](https://github.com/roboflow/notebooks)
 * [Transformer in Vision :paper list of some recent Transformer-based CV works](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision)
@@ -49,7 +49,7 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 * [Awesome-Referring-Image-Segmentation: A collection of referring image segmentation papers and datasets.](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation)
 
 ## Data Science ##
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Science.png)
+![alt text](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Science.png)
 
 * [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
 * [Data Science Resources](https://github.com/jonathan-bower/DataScienceResources)
@@ -64,7 +64,7 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 * [Data-Science Interview Questions Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers)
 
 ## Machine Learning ##
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Machine%20Learning.jpg)
+![alt text](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/images/Machine%20Learning.jpg)
 
 * [GitHub Community Discussions](https://github.com/community/community): In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome machine learning frameworks, libraries and software (by language).
@@ -77,7 +77,7 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 * [Machine Learning Interview Questions: Machine Learning and Computer Vision Engineer](https://github.com/andrewekhalel/MLQuestions)
 
 ## Machine Learning Engineerings Operations (MLOps) ##
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/MLOps.png)
+![alt text](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/images/MLOps.png)
 * [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 * [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 * [MLOps Guide](https://mlops-guide.github.io/)
@@ -87,7 +87,7 @@ A curated list of the most important GitHub repos that cover the AI & ML landsca
 * [MLOps Course](https://github.com/GokuMohandas/mlops-course)
 
 ## Data Engineering ##
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Engineering.jpg)
+![alt text](https://github.com/p2kalita/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Engineering.jpg)
 
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 * [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
